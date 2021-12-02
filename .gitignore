@@ -1,0 +1,6 @@
+*.fbx
+*.png
+*.jpg
+*.zip
+maps/*.vmap
+maps/*.los
