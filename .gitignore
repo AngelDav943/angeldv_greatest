@@ -2,5 +2,8 @@
 *.png
 *.jpg
 *.zip
+*.csproj
+.vs/*
 maps/*.vmap
 maps/*.los
+tools_asset_info.bin
