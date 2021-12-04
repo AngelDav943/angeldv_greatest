@@ -2,9 +2,14 @@
 *.png
 *.jpg
 *.zip
+
+*.vmap
+*.vmdl
+*.vmat
+*.los
+
 *.csproj
 .vs/*
-*.vmap
-*.los
+
 _bakeresourcecache
 tools_asset_info.bin
