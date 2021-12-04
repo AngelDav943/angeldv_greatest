@@ -4,6 +4,7 @@
 *.zip
 *.csproj
 .vs/*
-maps/*.vmap
-maps/*.los
+*.vmap
+*.los
+_bakeresourcecache
 tools_asset_info.bin
